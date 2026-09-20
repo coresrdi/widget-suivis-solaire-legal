@@ -4,7 +4,7 @@
 **Application :** solaire ecogestion (`com.solar.ecogestion.app`)  
 **Dernière mise à jour :** 20 septembre 2026
 
-Voir aussi : https://solaire-ecogestion.pages.dev/confidentialite.html
+Voir aussi : https://solaire-ecogestion.pages.dev/confidentialite/
 
 ## 1. Ce que fait l’appli
 Applique compagnon. Elle affiche les données d’énergie de **votre maison** en se connectant à un **logiciel Windows installé chez vous** (le « hub »), sur votre réseau local ou via un VPN (ex. Tailscale). Pas de compte chez nous, pas d’envoi des données solaires vers un serveur que nous exploitons.
